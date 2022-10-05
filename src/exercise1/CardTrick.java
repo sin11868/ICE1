@@ -77,22 +77,22 @@ for( int i=0;i<hand.length;i++)
  */
     public static void printInfo() {
     
-        System.out.println("Congratulations, you guessed right!");
+        System.out.println("Congratulations, you have estimated right!");
         System.out.println();
         
         System.out.println("My name is yuvraj, but you can call me yuvi");
         System.out.println();
         
-        System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
+        System.out.println("My career ambitions: SINGER");
+        System.out.println("-- Be frequentely active on LinkedIn");
         System.out.println("-- Have a semester with no violations of academic integrity!");
 	System.out.println();	
 
-        System.out.println("My hobbies:");
-        System.out.println("-- Investing");
-        System.out.println("-- Cooking");
+        System.out.println("My hobbies: s");
+        System.out.println("-- singing");
+        System.out.println("-- writing");
         System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- Riding my jet");
 
         System.out.println();
         
