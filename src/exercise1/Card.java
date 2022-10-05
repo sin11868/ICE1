@@ -7,8 +7,8 @@ package exercise1;
  * There are 52 cards in a deck, no jokers.
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
- * @author dancye
- * @author Paul Bonenfant May 2020
+ * @author YUVRAJ SINGH
+ * @author YUVRAJ SINGH OCT 2022
  */
 public class Card {
 
@@ -16,21 +16,7 @@ public class Card {
    private int value;//1-13
 
    public static final String [] SUITS = {"Hearts", "Diamonds", "Spades", "Clubs"};
-    /**
-     * @return the suit
-     */
-    public String getSuit() {
-        return suit;
-    }
-
-    /**
-     * @param suit the suit to set
-     */
-    public void setSuit(String suit) {
-        this.suit = suit;
-    }
-
-    /**
+     /**
      * @return the value
      */
     public int getValue() {
@@ -42,5 +28,23 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
-    }  
+    }
+
+    /**
+     * @return the suits
+     */
+    public String getSuits() {
+        return suit;
+    }
+
+    /**
+     * @param suits the suits to set
+     */
+    public void setSuits(String suits) {
+        this.suit = suits;
+    }
+   //number
+    
+    //method for suits
+    
 }
