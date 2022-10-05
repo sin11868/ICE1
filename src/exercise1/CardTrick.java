@@ -74,7 +74,7 @@ for( int i=0;i<hand.length;i++)
  * replace this information with your own.
  *
  *
- */
+ */// "i am done"
     public static void printInfo() {
     
         System.out.println("Congratulations, you have estimated right!");
